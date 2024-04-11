@@ -5,7 +5,7 @@ module.exports = {
   bot: {
     info: {
       prefix: '?',
-      token: 'MTIyNzI5ODY3NTM5NTY1Nzc1MA.Gp28A8.xjFCVHYhLtMtvgueVf166e0bc_DoC5cK8jHNp0',
+      token: '',
       invLink: 'https://discord.com/api/oauth2/authorize?client_id=1227298675395657750&permissions=8&scope=bot%20applications.commands',
       privacy: '',
       terms: '',
